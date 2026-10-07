@@ -1,0 +1,15 @@
+&ieee802154 {
+	status = "disabled";
+};
+
+&pwm0 {
+	status = "disabled";
+};
+
+&adc {
+	status = "disabled";
+};
+
+&spi2 {
+	status = "disabled";
+};
